@@ -1,5 +1,5 @@
 # CS 2520 Assignment 6
-### Group Members: Mark Cruz, Prerna Joshi, Johnathan Mitri, and Zack Wawi
+### Group Members: Marc Cruz, Prerna Joshi, Johnathan Mitri, and Zack Wawi
 
 The purpose of this assignment is to refactor the file /Intro to Pygame Graphics/major league soccer animation/graphics_v4.py
 
