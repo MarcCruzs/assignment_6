@@ -15,6 +15,7 @@ L - Toggles the stadium lights on and off
 - **Stars** - A drawStar function was added which draws a star based on the location, color, and scale passed to it. The star creation loop now generates a random color for each star. 
 - **Flags** - drawLeftFlag and drawRightFlag functions were added, which draw the flag based on the position, pole color, and flag color passed to it. Using these functions, the flags were programmed to jump up and down to demonstrate the functions' ease of use. 
 - **Goal** - The goal can now be drawn by calling the drawGoalPost function, supplying it the color and thickness of lines intended. 
+- **Field** - The field's grass is now drawn by the drawGrass function. The grass is drawn with two alternating colors, which are passed as the two parameters of the drawGrass function.
 - **Field Lines** - The white lines painted on the field have been refactored into one function that takes the intended color as a parameter.
 - **Stadium Lights** - Capable of changing the colors of the lights and the pole of the stadium light as well. Also allowed the user to be able to change the location of the stadium lights.
 - **Fence** - able to change the color of the fence 
